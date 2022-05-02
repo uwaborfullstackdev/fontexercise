@@ -1,0 +1,153 @@
+.tahoma {
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: bold;
+}
+.deals {
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+}
+.sales {
+    color: red;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+.course {
+    font-family: Verdana;
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.beginners {
+    font-family: Verdana;
+    margin-top: 0;
+    opacity: 0.7;
+}
+.skills {
+    font-family: Verdana;
+    font-weight: normal;
+    margin-bottom: 24px;
+    width: 300px;
+}
+.get {
+    background-color: #075507;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-family: bold;
+    padding: 5px 25px 5px 25px;
+}
+.shopping {
+    font-family: Arial;
+    font-size: 26px;
+    font-weight: bolder;
+    margin-bottom: 12px;
+    margin-top: 9px;
+    text-align: center;
+}
+.product {
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    text-align: center;
+}
+.learn {
+    color: #4141a2;
+    font-weight: bold;
+    margin-bottom: 9px;
+    margin-top: 12px;
+    text-align: center;
+}
+.new {
+    color: #c65f16;
+    font-family: arial;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.macbook {
+    font-family: arial;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.pro {
+    font-family: arial;
+    font-size: 47px;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.from {
+    font-family: arial;
+    margin: 0;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.bu {
+    text-align: center;
+}
+.buy {
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    padding: 7px 15px 7px 15px;
+    text-align: center;
+}
+.dollar {
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: normal;
+    opacity: 0.8;
+}
+.today {
+    font-family: Arial;
+    font-size: 38px;
+    font-weight: bold;
+    margin: 0;
+    margin-top: 40px;
+}
+.time {
+    color: forestgreen;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+    margin-top: 10px;
+}
+.hours {
+    font-family: Arial;
+    opacity: 0.8;
+}
+.percent {
+    color: saddlebrown;
+    font-family: Arial;
+    font-weight: bold;
+}
+.freecode {
+    font-family: Arial;
+    font-weight: bold;
+}
+.camp {
+    font-family: Arial;
+    opacity: 0.6;
+}
+.web {
+    font-size: 20px;
+}
+.here {
+    font-size: 20px;
+}
+.chp {
+    color: blue;
+    opacity: 0.7;
+}
